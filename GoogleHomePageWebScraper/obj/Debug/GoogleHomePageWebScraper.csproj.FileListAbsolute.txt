@@ -1,0 +1,7 @@
+C:\Users\LEONN\Desktop\C# Projects\GoogleHomePageWebScraper\GoogleHomePageWebScraper\bin\Debug\GoogleHomePageWebScraper.exe.config
+C:\Users\LEONN\Desktop\C# Projects\GoogleHomePageWebScraper\GoogleHomePageWebScraper\bin\Debug\GoogleHomePageWebScraper.exe
+C:\Users\LEONN\Desktop\C# Projects\GoogleHomePageWebScraper\GoogleHomePageWebScraper\bin\Debug\GoogleHomePageWebScraper.pdb
+C:\Users\LEONN\Desktop\C# Projects\GoogleHomePageWebScraper\GoogleHomePageWebScraper\obj\Debug\GoogleHomePageWebScraper.csproj.AssemblyReference.cache
+C:\Users\LEONN\Desktop\C# Projects\GoogleHomePageWebScraper\GoogleHomePageWebScraper\obj\Debug\GoogleHomePageWebScraper.csproj.CoreCompileInputs.cache
+C:\Users\LEONN\Desktop\C# Projects\GoogleHomePageWebScraper\GoogleHomePageWebScraper\obj\Debug\GoogleHomePageWebScraper.exe
+C:\Users\LEONN\Desktop\C# Projects\GoogleHomePageWebScraper\GoogleHomePageWebScraper\obj\Debug\GoogleHomePageWebScraper.pdb
