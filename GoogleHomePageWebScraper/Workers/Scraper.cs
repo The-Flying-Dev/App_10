@@ -18,7 +18,7 @@ namespace GoogleHomePageWebScraper.Workers
 
             foreach (Match match in matches)
             {
-                if (!scrapeCriteria.Parts.Any())
+                if (!scrapeCriteria.Parts.Any()) // add to list if there's no parts
                 {
                     scrapedElements.Add(match.Groups[0].Value);
                 }
@@ -26,7 +26,7 @@ namespace GoogleHomePageWebScraper.Workers
                 {
                     foreach (var part in scrapeCriteria.Parts)
                     {
-                        Match matchedPart = Regex.Match(match.Groups[0].Value, part.Regex, part.RegexOption);
+                        Match matchedPart = Regex.Match(match.Groups[0].Value, part.Regex, part.RegexOption); // from the element, grab certain parts
 
                         if (matchedPart.Success) scrapedElements.Add(matchedPart.Groups[1].Value);
                     }
